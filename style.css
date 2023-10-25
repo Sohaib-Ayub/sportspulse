@@ -1,0 +1,27 @@
+/* .carousel-inner{
+    width: 50%;
+    height: 300px;
+} */
+.img-fluid-rounded-start{
+    height: 199px;
+    width:190px;
+}
+/* #s2{
+    color: white;
+    font-weight: bold;
+} */
+/* .card mb-3{
+    display: inline-block;
+} */
+/* .card2{
+    display: inline;
+} */
+.card-img-top{
+    padding: 1px;
+}
+.navbar-brand{
+    color: whitesmoke;
+}
+#navbarScroll{
+    color: whitesmoke;
+}
